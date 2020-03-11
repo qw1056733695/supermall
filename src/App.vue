@@ -10,7 +10,7 @@
 
 <script>
 
-	import MainTabBar from './components/tabbar/MainTabBar.vue'
+	import MainTabBar from './components/common/tabbar/MainTabBar.vue'
 	export default{
 		name:'App',
 		components:{
@@ -20,4 +20,5 @@
 </script>
 
 <style>
+	@import url("assets/css/base.css");
 </style>

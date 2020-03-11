@@ -11,7 +11,7 @@
 </script>
 
 <style>
-	@import url("../../assets/css/base.css");
+	@import url("../../../assets/css/base.css");
 	#tar-bar{
 		display: flex;
 		background-color: #f6f6f6;
